@@ -1,0 +1,14 @@
+C:\Users\Student-16\Documents\GitHub\Dev\401-Lab09\ManhattanMap\bin\Debug\net7.0\ManhattanMap.exe
+C:\Users\Student-16\Documents\GitHub\Dev\401-Lab09\ManhattanMap\bin\Debug\net7.0\ManhattanMap.deps.json
+C:\Users\Student-16\Documents\GitHub\Dev\401-Lab09\ManhattanMap\bin\Debug\net7.0\ManhattanMap.runtimeconfig.json
+C:\Users\Student-16\Documents\GitHub\Dev\401-Lab09\ManhattanMap\bin\Debug\net7.0\ManhattanMap.dll
+C:\Users\Student-16\Documents\GitHub\Dev\401-Lab09\ManhattanMap\bin\Debug\net7.0\ManhattanMap.pdb
+C:\Users\Student-16\Documents\GitHub\Dev\401-Lab09\ManhattanMap\obj\Debug\net7.0\ManhattanMap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student-16\Documents\GitHub\Dev\401-Lab09\ManhattanMap\obj\Debug\net7.0\ManhattanMap.AssemblyInfoInputs.cache
+C:\Users\Student-16\Documents\GitHub\Dev\401-Lab09\ManhattanMap\obj\Debug\net7.0\ManhattanMap.AssemblyInfo.cs
+C:\Users\Student-16\Documents\GitHub\Dev\401-Lab09\ManhattanMap\obj\Debug\net7.0\ManhattanMap.csproj.CoreCompileInputs.cache
+C:\Users\Student-16\Documents\GitHub\Dev\401-Lab09\ManhattanMap\obj\Debug\net7.0\ManhattanMap.dll
+C:\Users\Student-16\Documents\GitHub\Dev\401-Lab09\ManhattanMap\obj\Debug\net7.0\refint\ManhattanMap.dll
+C:\Users\Student-16\Documents\GitHub\Dev\401-Lab09\ManhattanMap\obj\Debug\net7.0\ManhattanMap.pdb
+C:\Users\Student-16\Documents\GitHub\Dev\401-Lab09\ManhattanMap\obj\Debug\net7.0\ManhattanMap.genruntimeconfig.cache
+C:\Users\Student-16\Documents\GitHub\Dev\401-Lab09\ManhattanMap\obj\Debug\net7.0\ref\ManhattanMap.dll

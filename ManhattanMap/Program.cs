@@ -7,7 +7,7 @@ namespace ManhattanMap
     {
         public static void Main(string[] args)
         {
-            string json = File.ReadAllText("C:\\Users\\Student-16\\Documents\\GitHub\\Dev\\401-Lab06\\ManhattanMap\\data.json");
+            string json = File.ReadAllText("C:/Users/Student-16/Documents/GitHub/Dev/401-Lab09/ManhattanMap/data.json");
             Console.WriteLine("Read file string");
 
             FeatureCollection featureCollection = JsonSerializer.Deserialize<FeatureCollection>(json);
